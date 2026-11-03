@@ -11,5 +11,13 @@
   "license": "ISC",
   "dependencies": {
     "angular": "^1.8.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d4mh25is068-lab/mitm-AngularJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/d4mh25is068-lab/mitm-AngularJS/issues"
+  },
+  "homepage": "https://github.com/d4mh25is068-lab/mitm-AngularJS#readme"
 }
